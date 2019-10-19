@@ -13,3 +13,6 @@ def link
   puts phrase2
 end
 
+def any_phrase(phrase3)
+  phrase = 
+  
